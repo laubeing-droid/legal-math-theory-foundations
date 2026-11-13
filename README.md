@@ -12,6 +12,8 @@
 3. [Agent 使用说明](docs/20261113_Agent使用说明.md)：怎样接任务、改文档、检查和交接。
 4. [任务 Issues](https://github.com/laubeing-droid/legal-math-theory-foundations/issues) 与 [私有拖拽看板](https://github.com/users/laubeing-droid/projects/2)：任务和验收证据放在 Issue；进度用配套 GitHub Projects 看板管理。看板已建立并核实为私有。
 
+5. [今晚排班与交付说明](docs/20261113_今晚排班与交付说明.md)：分工、交付命名、只读盘点范围和收件办法。当前排班任务尚未派单；[中转区](中转区/20261113_收件_使用说明_v0.1_协调.md)先收原件，不直接覆盖正式理论。
+
 ## 七步主线
 
 法理学统稿＋中国法律运行理论 → 中国法律运行总图＋资产盘点 → 法律工作流程规格＋库存对应 → 统一数学理论与补正 → 中国部门法特化 → 法律工程实现与接入 → 整体验收。
