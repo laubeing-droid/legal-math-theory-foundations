@@ -10,7 +10,7 @@
 1. [七步路线](docs/20261113_七步路线.md)：每一步做什么、交什么，以及怎样回补。
 2. [已确认边界](docs/20261113_已确认边界.md)：法域、RSI、仓库分工、冻结范围和待核事项。
 3. [Agent 使用说明](docs/20261113_Agent使用说明.md)：怎样接任务、改文档、检查和交接。
-4. [任务 Issues](https://github.com/laubeing-droid/legal-math-theory-foundations/issues) 与 [仓库 Projects 入口](https://github.com/laubeing-droid/legal-math-theory-foundations/projects)：任务和验收证据放在 Issue；进度用配套拖拽看板管理。入口不是看板已关联的证明，实际 Project 地址核实后补入。
+4. [任务 Issues](https://github.com/laubeing-droid/legal-math-theory-foundations/issues) 与 [私有拖拽看板](https://github.com/users/laubeing-droid/projects/2)：任务和验收证据放在 Issue；进度用配套 GitHub Projects 看板管理。看板已建立并核实为私有。
 
 ## 七步主线
 
